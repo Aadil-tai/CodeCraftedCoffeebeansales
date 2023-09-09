@@ -34,7 +34,7 @@ The Code Crafted Coffee Bean Sales Dashboard is designed to:
 
 To use the Code Crafted Coffee Bean Sales Dashboard, follow these steps:
 
-1. Download the Excel file provided in this repository (`Coffee_Sales_Dashboard.xlsx`).
+1. Download the Excel file provided in this repository (`CodeCrafedCoffeeBeanSales.xlsx`).
 
 2. Open the Excel file in your local Excel application.
 
