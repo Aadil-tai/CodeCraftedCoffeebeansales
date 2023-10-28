@@ -43,7 +43,7 @@ To use the Code Crafted Coffee Bean Sales Dashboard, follow these steps:
 <!-- Center-aligned heading with font color -->
 <h2 align="center"><font color="#17A2B8">Documentation 📖</font></h2>
 
-For detailed documentation on how to use the dashboard effectively and interpret the data, please refer to the [Documentation](./documentation) directory in this repository.
+To explore the project details, please refer to the [CodeCraftedCoffeeBeanSales.ipynb](CodeCraftedCoffeeBeanSales.ipynb) notebook.
 
 
 
